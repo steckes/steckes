@@ -15,6 +15,6 @@ Now I am a founding engineer at [ai-coustics](https://ai-coustics.com/).
   - Music, Synthesizers, Singing
 
 - 📧 How to reach me
- - Mail: stephan@neodsp.com
- - LinkedIn: [Stephan Eckes](https://www.linkedin.com/in/stephan-eckes/)
- - Instagram: [sainteckes](https://www.instagram.com/sainteckes/)
+  - Mail: stephan@neodsp.com
+  - LinkedIn: [Stephan Eckes](https://www.linkedin.com/in/stephan-eckes/)
+  - Instagram: [sainteckes](https://www.instagram.com/sainteckes/)
