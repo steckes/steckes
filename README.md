@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome on my Profile
 
-<!--
-**steckes/steckes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I learned audio development when I was working for (Neumann)[https://www.neumann.com/], (u-he)[https://u-he.com/] and (Holoplot)[https://holoplot.com/].
+- Now a founding engineer at (ai-coustics)[https://ai-coustics.com/].
 
-Here are some ideas to get you started:
+- 🦀 Working on following Rust projects:
+  - a room correction library for audio systems (neodsp.com)[https://neodsp.com/]
+  - a real-time audio inference engine for neural networks with (ai-coustics)[https://ai-coustics.com/]
+  - improving the Rust audio ecosystem by opensourcing many tools (hopefully)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡Interested in:
+  - UI/UX development (Svelte, Tauri, Iced, egui)
+  - Everything audio
+  - Music, Synthesizers, Singing
+
+- 📧 How to reach me:
+  - Mail: stephan@neodsp.com
+  - LinkedIn: https://www.linkedin.com/in/stephan-eckes/
+  - Instagram: https://www.instagram.com/sainteckes/
