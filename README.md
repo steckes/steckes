@@ -1,7 +1,8 @@
 ## Welcome to My Profile
 
-I learned audio development while working for [neumann.berlin](https://www.neumann.com/), [u-he](https://u-he.com/), and [Holoplot](https://holoplot.com/).
-Now I am a founding engineer at [ai-coustics](https://ai-coustics.com/)..
+I learned audio development while working for [Neumann](https://www.neumann.com/), [u-he](https://u-he.com/), and [Holoplot](https://holoplot.com/).
+
+Now I am a founding engineer at [ai-coustics](https://ai-coustics.com/).
 
 - 🦀 Working on the following Rust projects
   - A room correction library for audio systems [neodsp](https://neodsp.com/)
