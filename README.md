@@ -10,7 +10,7 @@ Now I am a founding engineer at [ai-coustics](https://ai-coustics.com/).
   - Improving the Rust audio ecosystem by open-sourcing many tools (hopefully)
 
 - ⚡ Interested in
-  - UI/UX development (Svelte, Tauri, Iced, egui)
+  - UI/UX development (Leptos, Tauri, Iced, egui)
   - Everything audio tech related
   - Music, Synthesizers, Singing
 
