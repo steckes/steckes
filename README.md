@@ -1,6 +1,7 @@
 ## Welcome to My Profile
 
 🌐 Check out my blog: https://steck.tech/
+
 🎥 And my YouTube Channel: https://www.youtube.com/@SteckDotTech
 
 I learned audio development while working for [Neumann](https://www.neumann.com/), [u-he](https://u-he.com/), and [Holoplot](https://holoplot.com/).
