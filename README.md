@@ -1,21 +1,22 @@
 ## Welcome to My Profile
 
-🎥 And my YouTube Channel: https://www.youtube.com/@steck-tech
-
 I learned audio development while working for [Neumann](https://www.neumann.com/), [u-he](https://u-he.com/), and [Holoplot](https://holoplot.com/).
 
 Now I am a founding engineer at [ai-coustics](https://ai-coustics.com/).
 
+- My Website: [neodsp.com](https://neodsp.com/)
+
+- My YouTube Channel: [youtube.com/@steck-tech](https://www.youtube.com/@steck-tech)
+
 - 🦀 Working on the following Rust projects
-  - A room correction library for audio systems [neodsp](https://neodsp.com/)
-  - A real-time audio inference engine for neural networks with ai-coustics
-  - Improving the Rust audio ecosystem by open-sourcing many tools (hopefully)
+  - Improving the Rust audio ecosystem by open-sourcing tools [neodsp.com](https://neodsp.com/)
+  - A real-time audio inference engine for neural networks with [ai-coustics](https://ai-coustics.com/)
 
 - ⚡ Interested in
-  - UI/UX development (Leptos, Tauri, Iced, egui)
   - Everything audio tech related
-  - Music, Synthesizers, Singing
+  - UI/UX development (Leptos, Tauri, Iced, egui)
+  - AI inference
 
 - 📧 How to reach me
-  - Mail: stephan@neodsp.com
+  - Mail: [stephan@neodsp.com](mailto:stephan@neodsp.com)
   - LinkedIn: [Stephan Eckes](https://www.linkedin.com/in/stephan-eckes/)
