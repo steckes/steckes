@@ -1,12 +1,12 @@
-## Welcome to My Profile
+## Welcome to my profile
 
-I learned audio development while working for [Neumann](https://www.neumann.com/), [u-he](https://u-he.com/), and [Holoplot](https://holoplot.com/).
+I learned audio development while working for [Neumann](https://neumann.com/), [u-he](https://u-he.com/), and [Holoplot](https://holoplot.com/).
 
 Now I am a founding engineer at [ai-coustics](https://ai-coustics.com/).
 
-- My Website: [neodsp.com](https://neodsp.com/)
+- My website: [neodsp.com](https://neodsp.com/)
 
-- My YouTube Channel: [youtube.com/@steck-tech](https://www.youtube.com/@steck-tech)
+- My YouTube channel: [youtube.com/@steck-tech](https://www.youtube.com/@steck-tech)
 
 - 🦀 Working on the following Rust projects
   - Improving the Rust audio ecosystem by open-sourcing tools [neodsp.com](https://neodsp.com/)
