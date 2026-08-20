@@ -7,7 +7,7 @@ Now I am a founding engineer at [ai-coustics](https://ai-coustics.com/).
 - My website: [steckes.com](https://steckes.com/)
 - My portfolio: [neodsp.com](https://neodsp.com/)
 
-- My YouTube channel: [youtube.com/@steck-tech](https://www.youtube.com/@steckes)
+- My YouTube channel: [youtube.com/@steckes](https://www.youtube.com/@steckes)
 
 - 🦀 Working on the following Rust projects
   - Improving the Rust audio ecosystem by open-sourcing tools [neodsp.com](https://neodsp.com/)
